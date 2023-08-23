@@ -2,7 +2,7 @@
 
 _A description why is this change needed and what problem it will solve_
 
-_Link to related JIRA tickets_
+_Links to related JIRA tickets_
 
 ## :test_tube: Testing
 

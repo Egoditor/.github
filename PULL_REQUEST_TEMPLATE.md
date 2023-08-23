@@ -1,6 +1,6 @@
 # :rocket: Description & Context
 
-_A description why is this change needed and what problem it will solve_
+_A description why this change is needed and what problem it will solve_
 
 _Links to related JIRA tickets_
 
